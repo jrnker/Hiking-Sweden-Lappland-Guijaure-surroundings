@@ -24,7 +24,7 @@ Also, stick to KML and not KMZ as plain text is easier to work with.
 This is not an official hiking trail source, but an private effort without any guarantee of the actual data provided. 
 
 Always check your trail with an official map and **never go hiking without an official map on paper**. They tend to have unlimited battery power and will never fail you.
-
+![](https://raw.githubusercontent.com/jrnker/Hiking-Sweden-Lappland-Guijaure-surroundings/master/Leg%20overview.png)
 ## Copyright
 Copyright (c) 2020 Christoffer Järnåker
 
