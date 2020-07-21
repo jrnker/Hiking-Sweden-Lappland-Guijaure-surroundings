@@ -1,4 +1,4 @@
-# # Hiking-Sweden-Lappland-Guijaure-surroundings
+# Hiking-Sweden-Lappland-Guijaure-surroundings
 
 This is a collection of [KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language) files for a hiking area in the northern part of Sweden, Lappland, Norrbotten, Arjeplog, Vuoggatjålme, Guijaure / Gujjávrre.
 The files have been produced by plotting paths in Google Earth with a map overlay from the Swedish map institute Lantmäteriet, which shows the hiking paths.
